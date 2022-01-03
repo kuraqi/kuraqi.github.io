@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-01-03T03:13:02.784Z</updated>
+    <updated>2022-01-03T13:35:47.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -12,6 +12,25 @@
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[关于Lemmy]]></title>
+        <id>https://kuraqi.github.io/post/talk-about-lemmy/</id>
+        <link href="https://kuraqi.github.io/post/talk-about-lemmy/">
+        </link>
+        <updated>2022-01-03T13:26:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>自行叨叨</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>自行叨叨</p>
+<!-- more -->
+<p>知道Lemmy是之前看到有象友分享的联邦宇宙的档案里有它。论坛形式，让我想到reddit，然后后来发现开发者自己就有说这是为了开发一个reddit的替代品而产生的。<br>
+从那之后豆瓣就出现了各种事情，于是乎豆瓣用户在疯狂找寻一个替代品。书影音有了后来的Bookwyrm和Neodb，但是小组用户应该何去何从一直没有一个特别好的解决方案。<br>
+之前也在misskey上安利过Lemmy，但是因为没有一个主要的简中社群导致没办法引起太多人的兴趣。而且中文化的程度也不够，导致很多人就算有这心也望而却步了。<br>
+于是乎今天心血来潮就去翻了一下文档<s>哪晓得一不小心翻错文档了直到看到开发者的信的时候我才反应过来</s><br>
+有些专有名词我是真的不会也不敢乱翻，虽然大不了就是机翻了但是还是觉得很对不起观众（。<br>
+之前也想过建一个Lemmy的实例，但是正如开发者自己所说的，已有用户是一个很大的基础，尤其是它是一个community，不是一般的社交网络，我也拉不到那么多人，于是就目前搁置吧。</p>
+<p>希望能有个可以发现Lemmy的简中大佬建一个实例吧，虽然官方实例现在也没墙但是怎么说呢，没人啊………………</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于我玩了四十个小时三房一直不知道的一些事情]]></title>
         <id>https://kuraqi.github.io/post/after-40hr-fe3h/</id>
