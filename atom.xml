@@ -2,12 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-01-02T15:09:15.759Z</updated>
+    <updated>2022-01-03T03:00:26.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
-    <subtitle>Have a sleep talk</subtitle>
+    <subtitle>Have a sleep talk.
+一个二次元同人女心血来潮建立的blog，本blog中出现什么内容都不要感到惊讶。
+兴趣爱好是分享一些奇奇怪怪的黑科技。</subtitle>
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我玩了四十个小时三房一直不知道的一些事情]]></title>
+        <id>https://kuraqi.github.io/post/after-40hr-fe3h/</id>
+        <link href="https://kuraqi.github.io/post/after-40hr-fe3h/">
+        </link>
+        <updated>2022-01-03T02:58:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>我就算不知道这些事情也把游戏打完了，这个故事告诉我们三房的轻松模式的容错率真的蛮高的</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我就算不知道这些事情也把游戏打完了，这个故事告诉我们三房的轻松模式的容错率真的蛮高的</p>
+<!-- more -->
+<p>1 原来战斗是可以开自动的</p>
+<p>2 原来战斗动画是可以关掉的<s>亏我晕了三十五个小时的飞龙飞马</s></p>
+<p>3 原来盗贼兵种是可以不用钥匙就可以开门和开宝箱的</p>
+<p>4 原来雅妮特的爸爸是吉尔伯特（三十个小时才知道的事：啥原来我们之前打的一个是亚修的爸一个是希尔凡的哥）</p>
+<p>5 原来速度+4就可以比别人多出一次招</p>
+<p>6 哦有些骑士团是可以回血用的</p>
+<p>7 原来堡垒是指地上有着堡垒字样的地板，踩在地板上敌军就不会增加了诶</p>
+<p>8 除了法嘉斯神圣王国另外两个的名字我一直不知道是啥<s>我甚至数不清金鹿学级的人</s></p>
+<p>9 <s>玩了很久才知道原来希尔凡和希尔妲不是兄妹（我只看了名字）</s></p>
+<p>10 <s>玩了很久才知道原来杰拉尔特是主角的爸（我记不住名字）</s></p>
+<p>11 我依旧不知道魅力值除了在白鹭杯跳舞可以用之外还能干啥<s>难不成是色诱敌军首领吗</s></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大概是个各国各地区主要同人创作网站的合集]]></title>
+        <id>https://kuraqi.github.io/post/fanfic-collection1/</id>
+        <link href="https://kuraqi.github.io/post/fanfic-collection1/">
+        </link>
+        <updated>2022-01-03T02:55:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>纯文字站我会标出，如果没有就是图文都有<br>
+墙了（无法直连）的我也会标出，没标就是还可以直连</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>纯文字站我会标出，如果没有就是图文都有<br>
+墙了（无法直连）的我也会标出，没标就是还可以直连</p>
+<!-- more -->
+<h2 id="欧美">欧美</h2>
+<p>ao3(墙了）</p>
+<p>tumblr（墙了）</p>
+<p>livejournal.com （墙了）AO3的前身，前一阵子还可以直连的现在不行了</p>
+<p>这几个没啥好说的直接进去搜关键词就好</p>
+<p>顺便说几个网站</p>
+<p>nitter.bgme.bid←一个推特的前端，国内可直连，没有社交功能（follow、发推文之类的），可以搜索用户id查看</p>
+<p>nightalk.org←AO3的反代，国内直连AO3，但是现在已经被腾讯系以及国内浏览器给ban了，建议用chrome登入</p>
+<h2 id="韩国">韩国</h2>
+<p>postype.com   然而你看不懂韩文就是没卵用啊</p>
+<h2 id="日本">日本</h2>
+<p>pixiv.net 墙了，安卓端有个直连的应用<strong>shaft</strong>，Google play地址https://play.google.com/store/apps/details?id=ceui.lisa.pixiv  GitHub地址https://github.com/CeuiLiSA/Pixiv-Shaft。<br>
+iOS端的<strong>P站助手</strong>可以看图但是不能看文。</p>
+<p>pictbland.net BL站，樱花妹搞rps的大本营，rps部分破密码破得你脑壳疼且大部分“friends-only”和要作者要你写小作文才能通过你的关注申请给你看文</p>
+<p>pictgland.net GL站</p>
+<p>pictmalfem.net 异性同人文创作站</p>
+<p>这三家都需要注册登录后使用</p>
+<p>privatter.net 需要推特登入后查看，网站本身可直连</p>
+<p>poipiku.com 推特/邮箱登陆后查看，插画网站，网站本身可直连</p>
+<h2 id="台湾">台湾</h2>
+<p>episode.cc 文字站，文字竖版排版，有人觉得网页设计好看<s>我觉得封底是花的不易于保护视力</s> 搜索文章需要注册登录</p>
+<p>waterfall.slashtw.space 墙了，同人论坛，图文都有</p>
+<h2 id="香港">香港</h2>
+<p>semiii.com 蝉翼，一个新的文字创作平台</p>
+<h2 id="大陆">大陆</h2>
+<p>wland 网址去<strong>微博wland超话</strong>里面找，网址里带rps的是真人同人分站，没有的是主站 纯文字站</p>
+<p>rearyard.com 后花园，看文需要注册，注册要写小作文所以用得人比较少（但我挺喜欢这个界面的） 纯文字站</p>
+<p>tagtree、随缘居等我不用所以不清楚，需要手机号注册的我都不用</p>
+<p>lofter爬吧</p>
+<p>qoutev现在已经被水产占了大家可以不用看了</p>
+<h2 id="补充">补充</h2>
+<p>其实现在很多同人创作都是流落在各个国家的主要社交软件里的</p>
+<p>例如twitter你去搜tag，微博搜关键词，台湾的噗浪（我没用过且已墙），Facebook有小组（部分作品是有作品小组的）</p>
+<p>有些时候创作者会自己去搭blog来放作品合集~~ （例如我） ~~ wordpress国内是基本上不能通畅直连的。writefreely相关主要是看所在实力的服务器。反正打不开就挂梯子。</p>
+<h2 id="再补充">再补充</h2>
+<p><strong>没有吃不到的粮，只有不会找粮的人！</strong><br>
+问就是被逼的！来！试试看！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何扒line上的贴纸（表情包）]]></title>
+        <id>https://kuraqi.github.io/post/line-stamp-download/</id>
+        <link href="https://kuraqi.github.io/post/line-stamp-download/">
+        </link>
+        <updated>2022-01-03T02:52:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>阅读本文说明了你也想和我一样逃避一些版权带来的不便利，请不要看完后骂我不尊重版权</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>阅读本文说明了你也想和我一样逃避一些版权带来的不便利，请不要看完后骂我不尊重版权</p>
+<!-- more -->
+<p>1 首先需要表情包的地址，有些贴纸是地区限定，不过无所谓</p>
+<p>2 将地址放入<a href="https://goonlinetools.com/line-sticker-download/">line贴纸下载工具</a><br>
+2.1 贴入之后会显示两个栏，上一栏是静态贴纸，下一栏是动态/语音贴纸，具体格式看你需要的，点击就可以下载了<br>
+最好不要调idm，可能会下不下来<br>
+2.2 动态贴纸需要多一步，下载下来的压缩包里有一个animate的文件夹，将该文件夹内的文件转换为gif格式就达成了动态贴纸效果<br>
+<a href="https://cdkm.com/cn/png-to-gif">批量转换工具</a><br>
+一次只能转10个，不过刷新之后就可以接着用了，需要关闭广告屏蔽脚本</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何扒台湾乱搭网站上的漫画]]></title>
+        <id>https://kuraqi.github.io/post/rentatw-manga-download/</id>
+        <link href="https://kuraqi.github.io/post/rentatw-manga-download/">
+        </link>
+        <updated>2022-01-03T02:47:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>阅读本文说明了你也想和我一样逃避一些版权带来的不便利，请不要看完后骂我不尊重版权</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>阅读本文说明了你也想和我一样逃避一些版权带来的不便利，请不要看完后骂我不尊重版权</p>
+<!-- more -->
+<p>首先说明是你肯定要买了漫画才能扒，那么<a href="https://weibo.com/6694932366/L30wshl8H?refer_flag=1001030103_&amp;type=comment#_rnd1640065172695">如何买漫画可以看这里</a><br>
+以下需要用chrome浏览器操作<br>
+接着下载一个叫做“图片助手”的chrome插件，在谷歌的应用商店里可以找到。<br>
+打开漫画，在快速翻完所有的漫画后，点击其中的某一页，放大，右键可以看到图片助手→提取本页图片。点击后弹出页面，筛选掉一些特别小的（一般只需要点800X600及以上的尺寸），全部下载<br>
+下载后是txt格式，如何将其一口气转为你需要的格式可以<a href="https://jingyan.baidu.com/article/46650658703913f548e5f872.html">参照这个</a></p>
+<p>此方法缺点就是需要自己重新进行排序，但一般情况下数量也还好所以就，慢慢对照网页排版吧</p>
+]]></content>
+    </entry>
 </feed>
