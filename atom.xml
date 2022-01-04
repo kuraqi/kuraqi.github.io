@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-01-03T14:27:35.387Z</updated>
+    <updated>2022-01-04T03:40:50.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -12,6 +12,26 @@
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[一些《东京复仇者》影版的吐槽]]></title>
+        <id>https://kuraqi.github.io/post/tucao-tokyorevengers/</id>
+        <link href="https://kuraqi.github.io/post/tucao-tokyorevengers/">
+        </link>
+        <updated>2022-01-04T03:21:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>真的槽点好多啊！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>真的槽点好多啊！</p>
+<!-- more -->
+<p>首先感谢电影版把这个改成了高中生男主——西八原作那帮初中生又是刀子又是枪的真的很吓人诶。<br>
+但是对于本作的残念还是很多的。<br>
+首先怨念已久的就是Mikey的人字拖没了。人字拖没了叫什么Mikey，妈欸这可是穿了十多年的人字拖诶梵天时期都有的人字拖诶怎么能换成皮鞋！！！！！哪个不良穿皮鞋你就告诉我！！！！<br>
+其次是这个节奏。因为是两个小时篇幅要讲的事情太多，所以把与爱美爱主的两场斗争都结合在了一起，<s>删去了我的Emma妹妹</s>，然后节奏和剧情就变得莫名其妙了起来。男主的心理活动过于多了，最后一段我都想说你丫的打个屁啊，原作要打那是因为救护车进不了巷子，清将堵着，这没办法要打。这电影，条条大路通罗马，阳关大道通出口，四台车开进来都没问题的宽度你怎么就堵在这里了！！！杀阵其实真的挺多的，但是不知道是因为速度还是过于浮夸，导致看起来不过瘾，最后面那个碰一下就倒了让我“啊就这？”。<br>
+都说Draken好帅，但是我戴着八百重滤镜都没看出来，角色和演员滤镜都有，可我就是？？？？？？完了全程。这个Draken太奇怪了，就感觉是山田警官你不做警察了呀这种。吉泽亮的Mikey我也说不出来哪里奇怪，你说是因为没染眉毛吧但是也不是，就是觉得味道不正常。以及这个编剧怕不真是我CP的推，男主被放了一个小时的闪你真的还好吗？<br>
+什么十年后稀咲铁太指着Mikey脖子上的纹身说“Draken一直活在这里哦”什么的你们不觉得有问题吗（panic），“Draken就是Mikey的心脏”，欸不是吧原作说的是他是东万的良心吧这不太对吧！不过删去了最后Draken托老婆那段我真的还挺残念的。<br>
+以及说我不知道这个到底打不打算拍后面一部诶。因为实在已经是HE了，但是又让半间出来晃了一圈，这是干啥啊，票房不好就不拍了是吗。还有为什么不能给每个出场人物打个标签打个名字，做个字幕那么难的吗，第一次看这个的观众一定会非常懵逼的“这些花花绿绿的人是谁啊”。<br>
+最后想说一下演员梗真的好多，我就真的很想让清将和直人去打一架（说起来也有给直人加戏吧原作里他戏份哪有这么多），恭喜总悟再也不是副长了，还有神特么三十岁的魔法师我看你们也没有去演魔法师的啊！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷子收纳小技巧——将省钱进行到底]]></title>
         <id>https://kuraqi.github.io/post/goods-collection/</id>
@@ -344,25 +364,6 @@ iOS端的<strong>P站助手</strong>可以看图但是不能看文。</p>
 <h2 id="再补充">再补充</h2>
 <p><strong>没有吃不到的粮，只有不会找粮的人！</strong><br>
 问就是被逼的！来！试试看！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何扒line上的贴纸（表情包）]]></title>
-        <id>https://kuraqi.github.io/post/line-stamp-download/</id>
-        <link href="https://kuraqi.github.io/post/line-stamp-download/">
-        </link>
-        <updated>2022-01-03T02:52:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>阅读本文说明了你也想和我一样逃避一些版权带来的不便利，请不要看完后骂我不尊重版权</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>阅读本文说明了你也想和我一样逃避一些版权带来的不便利，请不要看完后骂我不尊重版权</p>
-<!-- more -->
-<p>1 首先需要表情包的地址，有些贴纸是地区限定，不过无所谓</p>
-<p>2 将地址放入<a href="https://goonlinetools.com/line-sticker-download/">line贴纸下载工具</a><br>
-2.1 贴入之后会显示两个栏，上一栏是静态贴纸，下一栏是动态/语音贴纸，具体格式看你需要的，点击就可以下载了<br>
-最好不要调idm，可能会下不下来<br>
-2.2 动态贴纸需要多一步，下载下来的压缩包里有一个animate的文件夹，将该文件夹内的文件转换为gif格式就达成了动态贴纸效果<br>
-<a href="https://cdkm.com/cn/png-to-gif">批量转换工具</a><br>
-一次只能转10个，不过刷新之后就可以接着用了，需要关闭广告屏蔽脚本</p>
 ]]></content>
     </entry>
 </feed>
