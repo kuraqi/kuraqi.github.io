@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-01-04T14:46:39.712Z</updated>
+    <updated>2022-01-07T04:17:41.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -12,6 +12,103 @@
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[找资源的正确方式]]></title>
+        <id>https://kuraqi.github.io/post/how-to-find-them/</id>
+        <link href="https://kuraqi.github.io/post/how-to-find-them/">
+        </link>
+        <updated>2022-01-07T04:09:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>这一篇只是我自己平日里找资源的方式。肯定不全，因为有些作品我不会接触当然也不知道怎么找资源。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这一篇只是我自己平日里找资源的方式。肯定不全，因为有些作品我不会接触当然也不知道怎么找资源。</p>
+<!-- more -->
+<p>写这个主要是看到了<a href="https://weibo.com/1574835140/L9lflBHO0?type=comment#_rnd1641468281369">这条</a>，加上国内对于翻墙软件的限制之后八成要精神坐牢<s>我现在已经觉得自己在精神坐牢了</s>。不是说不支持正版，首先国内的环境就是正版受害者，Jesus我就是看个《蓝色时期》这种动画而已B站还要先审后播；且支持正版真的不简单，之后数字人民币上了之后谁知道之后是不是看到续了网飞会员的就要抓起来关起呢。<s>我们二次元又不是要天上的星星只是想看个冻鳗小人而已啊</s></p>
+<p>还是支持正版为主，如果无法接受分享盗版资源的话现在可以关掉这篇了。</p>
+<p>我们的目标是自己自足，不要让钱进入二道贩子的手中！（滚</p>
+<h3 id="如何找音乐资源">如何找<strong>音乐</strong>资源</h3>
+<ol>
+<li>音乐解锁 <a href="https://tool.liumingye.cn/unlock-music/">链接</a> 解除网易云Q音等版权保护</li>
+<li>MP3下载 <a href="http://tool.liumingye.cn/music/?page=searchPage">链接</a></li>
+<li>MP3下载（KPOP） <a href="http://ilkpop.com/index.xhtml">链接</a></li>
+<li>JPOP下载（多个网站）<a href="https://www.jpopsingles.eu/">链接1，基本上用这个就够了</a> <a href="https://jpop.xyz/">链接2</a> <a href="https://jpflac.com/">链接3</a> <a href="https://jpopblog.com/">链接4，这个还有杂志/演唱会/综艺资源</a></li>
+<li>KPOP下载 <a href="https://kpopstan.com/">链接</a></li>
+</ol>
+<p>4和5都是网站本身可以直连，但是使用的文件外链网站需要梯子</p>
+<h3 id="如何找电子书资源">如何找<strong>电子书</strong>资源</h3>
+<p>找电子书方式五花八门各种平台都有，个人说一下自己平时喜欢用的：</p>
+<ol>
+<li>Zlibrary <a href="https://zh.ng1lib.org/">链接</a> 这个是我最喜欢用的一个了，因为非常简洁且书真的很多。镜像网址多，我发的这个可以直连。</li>
+<li>鸠摩搜书 <a href="https://www.jiumosearch.com/">链接</a> 麻烦的地方在于现在获取链接需要关注公众号</li>
+<li>ebook3000 <a href="http://ebook3000.com">我并没有用过但是放上链接</a> 之前看到有人推荐过，里面的英语杂志等比较多，~~我家网已墙也不知道到底可不可以直连，~~有广告</li>
+<li>mox.moe 漫画书资源，本意是提供给非大陆地区的中文用户的，需要注册，可直接发送至kindle</li>
+<li>图书互助联盟 <a href="https://xueshu86.com/vip/index.php">链接</a>  付费，淘宝上代找电子书的基本上都是从这里找的。<s>与其让二道贩子中间商赚差价不如自己直接找</s></li>
+</ol>
+<h3 id="如何找漫画资源在线正版购买方式我之后会写">如何找<strong>漫画</strong>资源（在线）（正版购买方式我之后会写）</h3>
+<ol>
+<li>mangadex.org 海外比较大的漫画网站了，啥国语言的都有，<s>我经常在上面看英翻Jump漫</s></li>
+<li>拷贝漫画 <a href="https://copymanga.com/">链接</a> 据知情人士透露这个就是动漫之家的海外站，不能用日本IP。真的很难用，但是我喜欢的汉化组都在上面发布漫画，哎……</li>
+<li>e-hentai.org 著名E站，大家都在上面看黄漫<s>只有我用它来看三房设定集</s>，已墙且每个IP限制每天打开500张图</li>
+<li>18comic.org 搞黄网站，在扒E站资源的基础上还有自己的汉化组（不过据我看就是扒了台版汉化，希望大家多多支持台版，文章末尾我有写）</li>
+</ol>
+<h3 id="如何找动画片资源下载在线">如何找<strong>动画片</strong>资源（下载+在线）</h3>
+<p>顺便分享一个BitTorrent Tracker列表，不知道怎么下磁力链/种子资源的也可看这个<a href="https://trackerslist.com/#/zh">链接</a></p>
+<p>但是陈年老番找到的大多数都是死种<s>心好累</s></p>
+<ol>
+<li>蜜柑计划 <a href="https://mikanani.me/">链接</a> 动画种子资源分享，可直连</li>
+<li>nyaa.si <a href="https://nyaa.si/">链接</a> 个人认为是最全的资源网站了，不止动画片（生肉熟肉），各种剧和音乐资源也有，已墙</li>
+<li>动漫花园 <a href="https://dmhy.anoneko.com/">链接</a> 也是资源网站，什么都有，这个链接好像是镜像站目前可以直连</li>
+<li>AGE动漫<a href="https://www.agefans.vip/">链接</a> 在线观看</li>
+<li>gogoanime <a href="https://www3.gogoanime.cm/">链接</a>  <s>万一哪天想看英语吹替版本了可以看这个</s></li>
+</ol>
+<h3 id="如何找电视剧主日剧资源下载在线">如何找<strong>电视剧</strong>（主日剧）资源（下载+在线）</h3>
+<p>吐槽一句，现在字幕组或多或少都有贴片广告了，哎</p>
+<p>以下是几个日剧字幕组官网分享：</p>
+<ol>
+<li>
+<p>追新番（人人日剧独立后）：<a href="http://www.fanxinzhui.com/">链接</a></p>
+</li>
+<li>
+<p>幻月字幕组（主要做日剧的番外等）：<a href="https://www.huanyuezmz.site/">链接</a></p>
+</li>
+<li>
+<p>日菁字幕组：<a href="http://www.mytvbt.net/forumdisplay.php?fid=6">链接</a></p>
+</li>
+</ol>
+<p>不推荐但是如有必要也可以参考：</p>
+<ol>
+<li>猪猪字幕组：<a href="http://www.zzrbl.com/">链接</a> （不推荐原因：微博在线播放大量获利后仍标榜自己为爱发电）</li>
+<li>FIX字幕侠：官网挂了请大家自己去微博找。（不推荐原因：私养营销号且盗其他组的字幕；字幕质量差）</li>
+</ol>
+<p>压制组：</p>
+<ol>
+<li>霸王龙压制组（只是压制）：<a href="https://t-rex.tzfile.com/?btwaf=70502589">链接</a></li>
+<li>低端影视（在线，但是都是自己压制的字幕，相对霸王龙质量较好）：<a href="https://ddrk.me/">链接</a></li>
+<li>亿万同人字幕组（LGBTQ作品为主）（有压制有自制）：<a href="http://ywtrzm.com/">链接</a></li>
+</ol>
+<p>其他作品我也不怎么看<s>看也是热门作一搜就能搜到的那种</s>，于是分享一个资源合集网站<a href="http://www.549.tv/">链接</a>。好了你会发现其实压根没必要看这篇<s>不是</s>，但是里面真的有很多不好用的或者挂了的站点所以我推荐的那起码能用啊！</p>
+<h3 id="资源站">资源站</h3>
+<ol>
+<li>阿里云盘 <a href="https://alixiaozhan.net/">阿里小站</a></li>
+<li>天翼云盘 <a href="https://yun.hei521.cn/">天翼小站</a></li>
+<li>115网盘 <a href="https://115.com/22484054?ref=1">之前资源不少但是现在挂得差不多了</a></li>
+</ol>
+<h3 id="那如果我想购入正版该如何做">那如果我想购入<strong>正版</strong>该如何做</h3>
+<p>放几个教程：（网页存档是以防万一原链接挂，里面的图片用右键打开就行）</p>
+<p>日版电子书/漫画：</p>
+<ol>
+<li>超详细合集<a href="https://weibo.com/ttarticle/p/show?id=2309404407852188958839">微博链接</a> <a href="http://archive.today/BgNen">网页存档</a>  顺便一提iOS的国区APPstore已经没有renta的APP了<s>看到我残念的眼神了吗</s></li>
+<li>DLsite <a href="https://m.weibo.cn/status/4707373619347946?">微博链接</a> <a href="http://archive.today/NbhdZ">网页存档</a> 上面部分有中文</li>
+</ol>
+<p>台版电子书/漫画：</p>
+<ol>
+<li>台湾乱搭网：<a href="https://weibo.com/6694932366/L30wshl8H?refer_flag=1001030103_&amp;type=comment#_rnd1641526633000">微博链接</a> <a href="http://archive.today/bLWCE">网页存档</a></li>
+<li>bookwalker：<a href="https://weibo.com/5176783093/L6XXDiVLR?from=page_1005055176783093_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1641527041564">微博链接</a> <a href="http://archive.today/8Mroc">网页存档</a></li>
+<li>bomtoon台版：<a href="https://m.weibo.cn/status/4681450903045941">微博链接</a> <a href="http://archive.today/C96vW">网页存档</a>   这个是韩漫，其实大陆地区充值方法和台湾乱搭一样都是用mycards</li>
+</ol>
+<p>万能方法是在微博/B站搜“XX 教程”</p>
+<p>总而言之，希望大家都能快乐建设精神文明建构快乐的精神世界，我是真的忍不了大陆的所谓“正版”了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大山诚一郎五本简中已出版书目的事件记录]]></title>
         <id>https://kuraqi.github.io/post/da-shan-cheng-yi-lang-wu-ben-jian-zhong-yi-chu-ban-shu-mu-de-shi-jian-ji-lu/</id>
@@ -436,26 +533,6 @@ Aaron其实是Luke这个我倒是蛮早就猜出来了，因为小时候的声�
 logo是我拍的摄津万里粘土人的玩雪照片。</p>
 <p><strong>还有啥想说的吗</strong><br>
 希望你能够在本blog中找到一些自己喜欢的东西。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些《东京复仇者》影版的吐槽]]></title>
-        <id>https://kuraqi.github.io/post/tucao-tokyorevengers/</id>
-        <link href="https://kuraqi.github.io/post/tucao-tokyorevengers/">
-        </link>
-        <updated>2022-01-04T03:21:57.000Z</updated>
-        <summary type="html"><![CDATA[<p>真的槽点好多啊！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>真的槽点好多啊！</p>
-<!-- more -->
-<p>首先感谢电影版把这个改成了高中生男主——西八原作那帮初中生又是刀子又是枪的真的很吓人诶。<br>
-但是对于本作的残念还是很多的。<br>
-首先怨念已久的就是Mikey的人字拖没了。人字拖没了叫什么Mikey，妈欸这可是穿了十多年的人字拖诶梵天时期都有的人字拖诶怎么能换成皮鞋！！！！！哪个不良穿皮鞋你就告诉我！！！！<br>
-其次是这个节奏。因为是两个小时篇幅要讲的事情太多，所以把与爱美爱主的两场斗争都结合在了一起，<s>删去了我的Emma妹妹</s>，然后节奏和剧情就变得莫名其妙了起来。男主的心理活动过于多了，最后一段我都想说你丫的打个屁啊，原作要打那是因为救护车进不了巷子，清将堵着，这没办法要打。这电影，条条大路通罗马，阳关大道通出口，四台车开进来都没问题的宽度你怎么就堵在这里了！！！杀阵其实真的挺多的，但是不知道是因为速度还是过于浮夸，导致看起来不过瘾，最后面那个碰一下就倒了让我“啊就这？”。<br>
-都说Draken好帅，但是我戴着八百重滤镜都没看出来，角色和演员滤镜都有，可我就是？？？？？？完了全程。这个Draken太奇怪了，就感觉是山田警官你不做警察了呀这种。吉泽亮的Mikey我也说不出来哪里奇怪，你说是因为没染眉毛吧但是也不是，就是觉得味道不正常。以及这个编剧怕不真是我CP的推，男主被放了一个小时的闪你真的还好吗？<br>
-什么十年后稀咲铁太指着Mikey脖子上的纹身说“Draken一直活在这里哦”什么的你们不觉得有问题吗（panic），“Draken就是Mikey的心脏”，欸不是吧原作说的是他是东万的良心吧这不太对吧！不过删去了最后Draken托老婆那段我真的还挺残念的。<br>
-以及说我不知道这个到底打不打算拍后面一部诶。因为实在已经是HE了，但是又让半间出来晃了一圈，这是干啥啊，票房不好就不拍了是吗。还有为什么不能给每个出场人物打个标签打个名字，做个字幕那么难的吗，第一次看这个的观众一定会非常懵逼的“这些花花绿绿的人是谁啊”。<br>
-最后想说一下演员梗真的好多，我就真的很想让清将和直人去打一架（说起来也有给直人加戏吧原作里他戏份哪有这么多），恭喜总悟再也不是副长了，还有神特么三十岁的魔法师我看你们也没有去演魔法师的啊！</p>
 ]]></content>
     </entry>
 </feed>
