@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-01-09T14:44:55.272Z</updated>
+    <updated>2022-01-13T06:15:39.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -12,6 +12,21 @@
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[一些资源合集]]></title>
+        <id>https://kuraqi.github.io/post/yi-xie-zi-yuan-he-ji/</id>
+        <link href="https://kuraqi.github.io/post/yi-xie-zi-yuan-he-ji/">
+        </link>
+        <updated>2022-01-13T05:59:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>大概是传都传了不如放上来吧万一有人想要呢</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>大概是传都传了不如放上来吧万一有人想要呢</p>
+<!-- more -->
+<p>A3！line表情包：<a href="https://bafybeidoopp6o6uhjxgh5da2e2yn4frzewwyjxbzhakscklqre44qxpd64.ipfs.dweb.link/A3%EF%BC%81.zip">链接</a></p>
+<p>LIGHTSUM-VIVACE 乐队version MP3（it's live现场版<s>就是初媛的鞋底掉了的那次</s>）：<a href="https://bafybeidtdw7opvbd2a74hmseaat3ehsgvyjjyns6bpagii4fjuqsk7qx5i.ipfs.dweb.link/vivace-bandversion.mp3">链接</a></p>
+<p>武内骏辅迪士尼<s>打工记录</s>四首参与的歌曲：[链接](https://bafybeih5efcr2gmnlsegzmcleig2jwtsmwr657zvnz3y6d32pur54a7rgu.ipfs.dweb.link/When I Am Older – Shunsuke Takeuchi.zip) 总之全都复制进地址栏就好了！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[论我和荒牧水江两位的恩怨情仇]]></title>
         <id>https://kuraqi.github.io/post/lun-wo-he-huang-mu-shui-jiang-liang-wei-de-en-yuan-qing-chou/</id>
@@ -483,38 +498,6 @@ Aaron其实是Luke这个我倒是蛮早就猜出来了，因为小时候的声�
 （去看了眼豆瓣上也有吐槽这个判定的，哦那就好，I'm not alone）<br>
 以及后面那个彩蛋好像真的是第二部的，快点第二部你能把这个判定改好就行（要求贼低）。</p>
 <p>虽然全剧情都有录屏但是怎么说还是希望自己能打出来的（三百块钱呢），但是之后再说吧先去打A3！国服排名了（想吐</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[abema使用教程总结]]></title>
-        <id>https://kuraqi.github.io/post/tools-abema/</id>
-        <link href="https://kuraqi.github.io/post/tools-abema/">
-        </link>
-        <updated>2022-01-04T14:33:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>我首先说一下这个只是一个总结，因为我用abema除了看看A3的生放送之外也不会干其他的了，但是看了看各位大佬们写的教程感觉可以举一反三从而帮忙搞定DMM、雅虎、niconico直播、hulu等<s>烦人</s>平台于是姑且给自己给亲友存个档。<br>
-当然亲友也可分享给你的亲友。但是不允许找我麻烦+出警</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>我首先说一下这个只是一个总结，因为我用abema除了看看A3的生放送之外也不会干其他的了，但是看了看各位大佬们写的教程感觉可以举一反三从而帮忙搞定DMM、雅虎、niconico直播、hulu等<s>烦人</s>平台于是姑且给自己给亲友存个档。<br>
-当然亲友也可分享给你的亲友。但是不允许找我麻烦+出警</p>
-<!-- more -->
-<h2 id="啥都会搞但就是搞不定日本ippc版仅针对abema">啥都会搞但就是搞不定日本IP（PC版）（仅针对abema)</h2>
-<p>🔗：<a href="https://www.bilibili.com/read/cv5326287">B站专栏</a></p>
-<h2 id="含手机端的保姆级别教程">含手机端的保姆级别教程</h2>
-<p>🔗：<a href="https://m.weibo.cn/status/4601218933984524?">简单粗暴但有靠谱代充推荐</a><br>
-🔗：<a href="https://weibo.com/ttarticle/p/show?id=2309404599977434284073">真的超保姆级别了<s>我三岁的侄子都学会了</s></a><br>
-🔗：<a href="https://www.douban.com/group/topic/202358040/?dt_dapp=1">ios端薅羊毛指南</a><br>
-说起来ios端在某些网站的充值方面真的会比其他方式便宜好多啊iOS民哭了出来<br>
-🔗：<a href="https://card.weibo.com/article/m/show/id/2309404565720850628748?_wb_client_=1">连魔法线路都教你选了真是感天动地</a></p>
-<h2 id="补充扒档">补充：扒档</h2>
-<p>🔗：<a href="https://www.bilibili.com/read/cv2287744">B站专栏</a><br>
-这个没有详细的中文版教程，可以去网页版搜一下streamlink，会有零碎方法。<br>
-为什么我不写？因为我其实也没搞懂。<br>
-如果实在不会扒档又很想<strong>自留</strong>（不许卖！）可以选择通用方式：录屏。<br>
-录屏软件我只用过两个。<br>
-一个是<strong>ocam</strong>，但是它有几次崩到我现在有ptsd了所以除非20分钟以内否则我不会用它。优点：完全免费，去官网下载就好。缺点：有广告。<br>
-另一个是<strong>bandicam</strong>，因为我用的是注册机（别骂了别骂了）所以对它也没啥怨言（我也不敢有怨言。<br>
-其他的国产的我都没用过，obs有被人推荐但是我看不懂这是要干啥……</p>
-<p>总结一下：其实只要你想看，办法总比困难多。</p>
 ]]></content>
     </entry>
 </feed>
