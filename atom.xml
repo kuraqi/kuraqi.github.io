@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-02-03T09:17:01.668Z</updated>
+    <updated>2022-02-03T14:31:02.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -12,6 +12,44 @@
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[求求各位技术博主不要把搭网站写成喝蛋汤一样好吗！]]></title>
+        <id>https://kuraqi.github.io/post/qiu-qiu-ge-wei-ji-zhu-bo-zhu-bu-yao-ba-da-wang-zhan-xie-cheng-he-dan-tang-yi-yang-hao-ma/</id>
+        <link href="https://kuraqi.github.io/post/qiu-qiu-ge-wei-ji-zhu-bo-zhu-bu-yao-ba-da-wang-zhan-xie-cheng-he-dan-tang-yi-yang-hao-ma/">
+        </link>
+        <updated>2022-02-03T14:12:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>一些我从开始到放弃只用了一个晚上的事情</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一些我从开始到放弃只用了一个晚上的事情</p>
+<!-- more -->
+<p>没有说大家的不对，只是确实有些事情不是那么简单的。</p>
+<p>在围观了大家写的各种建站教程以及我终于和GitHub扯皮拿到了学生优惠之后我打算开始试试买VPS和用自己的域名建blog这件事。<br>
+然后就发现了一个问题。<br>
+所有的教程都说的是小白也可以，但是真的小白，像我这种，是看不懂你们在写什么的啊！！！！</p>
+<p>我之前没看懂，是以为，哦那是因为自己没买服务器所以看不懂，等我买了服务器戳进去了这一切就简单了。<br>
+个屁！<br>
+我从买服务器开始就不懂在干什么了！<br>
+因为基本上的操作系统都是Linux的，我这个用win10的首先就很忐忑自己到底买了这玩意儿到底能不能用，但是看着大家一副胸有成竹的样子好像你买了就自动可以懂了。<br>
+行吧，那就买吧。<br>
+然后，因为GitHub的学生优惠是digital ocean的优惠券（我也不知道给我领到哪里去了总之我现在已经把服务器删了大不了就是浪费呗），好，这个问题来了，所有人都说digital ocean是老牌的供应商虽然有各种问题但是整体来说还是不错的<br>
+嗯，所以，从来没有人说过他的服务器在哪里过啊！！！！！<br>
+我看的是一个搭梯子的教程，好家伙等我开始买VPS了之后突然发现，西八，地址没有在日本的？<br>
+我作为一个常年要假扮日本人的二次元，没有日本的IP，我是，拿着这个，有什么用吗？<br>
+但是不管了，这不怪别人，怪我自己贪便宜，无所谓了，然后我建完了之后发现了一个问题<br>
+是我选了什么的操作系统我还要在我的电脑里装一遍是吗？<br>
+然后我再装个大家都说很好用很小白的docker，嗯，我这个128G的笔记本直接炸掉了好吗！</p>
+<p>接着我又要说说yuno host这个，网页上这样写着，你只需要最低的配置我们手把手很快就能让你有self-host，我：嗯嗯，这就是你们安装界面写三页的理由？<br>
+我看都看不懂你要装个什么东西啊！！！！</p>
+<p>所以我也不奢望啥了，我这人就这样了，我相信不只是我一个人烂，总有人比我更烂，那就行了。<br>
+有些钱该让别人赚的还是让别人赚吧，我累了。<br>
+但是namecheap的免费域名还有一年，我在想要不要去折腾个其他的blog平台啥的。<br>
+Gridea这个<s>我为什么在用着又在说别人的坏话</s>其实用起来还是有点鸡肋的，主要是这个客户端已经太拉跨了等于我现在还是要，在这里写完之后然后去github的桌面客户端发布。<br>
+…………<br>
+等等那这样不就是和我自己建一个hugo博客没有太大区别了吗？</p>
+<p>陷入了沉思。<br>
+算了总之先这么用着吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刀乱无双体验版感想]]></title>
         <id>https://kuraqi.github.io/post/dao-luan-wu-shuang-ti-yan-ban-gan-xiang/</id>
@@ -268,27 +306,6 @@ A：少女漫，说BL的都给我自杀。）<br>
 <p>虽然有热心人士指出可以怎样怎样既便宜又省事，但是吧，我个人是没有资源囤积这种喜好的。我去找资源只是因为我当时想看了所以会去临时找，而因为现在的环境导致我可能看完了删了之后就再也没有了于是我才会收在自己的硬盘里。</p>
 <p>好了就这样吧，愿我们都有光明的未来。</p>
 <p>或者明天世界就毁灭吧。麻了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些资源合集]]></title>
-        <id>https://kuraqi.github.io/post/yi-xie-zi-yuan-he-ji/</id>
-        <link href="https://kuraqi.github.io/post/yi-xie-zi-yuan-he-ji/">
-        </link>
-        <updated>2022-01-13T05:59:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>大概是传都传了不如放上来吧万一有人想要呢</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>大概是传都传了不如放上来吧万一有人想要呢</p>
-<!-- more -->
-<p>大部分链接是IPFS协议下的，原则上是永久有效的。<br>
-部分是用gigafile传送，如果有需要的文件又已经失效的话可以去提问箱（见blog的导航栏）和我说，我看到了会重新上传。</p>
-<p>A3！line表情包：<a href="https://bafybeidoopp6o6uhjxgh5da2e2yn4frzewwyjxbzhakscklqre44qxpd64.ipfs.dweb.link/A3%EF%BC%81.zip">链接</a></p>
-<p>LIGHTSUM-VIVACE 乐队version MP3（it's live现场版<s>就是初媛的鞋底掉了的那次</s>）：<a href="https://bafybeidtdw7opvbd2a74hmseaat3ehsgvyjjyns6bpagii4fjuqsk7qx5i.ipfs.dweb.link/vivace-bandversion.mp3">链接</a></p>
-<p>武内骏辅迪士尼<s>打工记录</s>四首参与的歌曲：<a href="https://bafybeih5efcr2gmnlsegzmcleig2jwtsmwr657zvnz3y6d32pur54a7rgu.ipfs.dweb.link/">链接</a> 总之全都复制进地址栏就好了！！</p>
-<p>FE风花雪月设定集 <s>对没错从ehentai上扒的那个</s>：<a href="https://bafybeibazxug75plpl2ktvwsbd5jcgp7k5m2tfosaefnk73all2n6c2fxe.ipfs.dweb.link/">链接</a></p>
-<p>加贺恭一郎系列（不过这个合集的翻译质量不好）：<a href="https://bafybeief6ultggf3wiaeprrenfbzvnnm73oodkegip2r4usowzdq32nm6q.ipfs.dweb.link">link</a></p>
-<p>我的事说来话长（<s>人活着就是为了生田斗真</s>追新番的版本，但是翻的不好，有条件请支持B站正版或者去kktv.me上观看繁中版）<br>
-第一集：https://bafybeietadcqm5ixxofrjktukvsfjys7obmwrofvg5qwiddvm7wo47r25q.ipfs.dweb.link</p>
 ]]></content>
     </entry>
 </feed>
