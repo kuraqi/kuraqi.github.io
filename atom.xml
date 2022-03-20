@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-03-11T12:23:06.921Z</updated>
+    <updated>2022-03-20T14:03:39.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -12,6 +12,34 @@
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 赛博夜话</rights>
+    <entry>
+        <title type="html"><![CDATA[人狼村二三四周目食用完毕repo]]></title>
+        <id>https://kuraqi.github.io/post/ren-lang-cun-er-zhou-mu-shi-yong-wan-bi-repo/</id>
+        <link href="https://kuraqi.github.io/post/ren-lang-cun-er-zhou-mu-shi-yong-wan-bi-repo/">
+        </link>
+        <updated>2022-03-19T06:16:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>em……</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>em……</p>
+<!-- more -->
+<p>就算看完了之后也不喜欢回末李花子吧……<br>
+但是千酱和摸鸡是狼真的就很被动了，这俩战斗力和智商爆表组合。<br>
+最后千酱掏枪真的好帅，啊啊啊啊疯婆娘！<br>
+男主骚话又进一程，大家要学骚话就找房石阳明。</p>
+<p>三周目：<br>
+写啥呢……好无聊我看着好想睡……<br>
+还有二周目多出来的四小时纯属是李花子说话太慢了吧，哎</p>
+<p>四周目：<br>
+千酱，千酱，呜呜。<br>
+最后发现这都是人的阴谋“比鬼神更可怕的是人心”的时候我觉得还挺带感的。嘛这一切就是要是人吓人才好玩，而且还是带有一点魔幻色彩的我觉得不错。<br>
+最后三车家的那几个说不干了也是很果断，哎大家都不想干吧。<br>
+其实这个就是喜欢看民俗学和神话传说的这一类的看这个就会很有趣，整个设定我觉得挺厉害的。<br>
+很喜欢骚话王对于神的探讨，神是什么，为什么会有神，神为什么又会消失。看完之后还挺庆幸多数人看这个都是跟风或者咋的，脑子好点的其实会联系一些事情这就很无语了<s>可能这个游戏都会没了</s>。神话其实是一种思想控制是一种政治手段，之所以会发生改变是与外来力量的交融与前一个神力量的丧失，这点是真的没错。神其实救活在人们的心中。<br>
+编剧真的对日本的神话啊心理学啊民俗学啊人类学方面有研究，然后千枝实以身证明了学人类学的确实不好就业。<br>
+好喜欢最后骚话组开车出去耍的结局，真的好喜欢。</p>
+<p>几年之后我再回忆这个游戏还会想起什么呢，大概还会想到一些佛舍利rock啊80W摩托啊Q君的美军假设和moji吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刀乱无双一周目主线通关感想]]></title>
         <id>https://kuraqi.github.io/post/dao-luan-wu-shuang-yi-zhou-mu-zhu-xian-tong-guan-gan-xiang/</id>
@@ -107,6 +135,10 @@
 <p>确实挺有病的，我喜欢。打倒资本家！</p>
 <h2 id="伪装破产全球壕宠小甜妻">《伪装破产：全球壕宠小甜妻》</h2>
 <p>别笑，这本真的好好看！女主包养男主，男主伪装破产。二十四孝好总裁了。难得。</p>
+<h2 id="炽道">《炽道》</h2>
+<p>我现在看只觉得男主很幼稚……</p>
+<h2 id="居家型男友">《居家型男友》</h2>
+<p>这不是男友这是活菩萨，现实生活中不存在的（落泪</p>
 ]]></content>
     </entry>
     <entry>
@@ -310,23 +342,6 @@
 毕竟，封面上都没他啊…………<br>
 好吧就这样了。<br>
 在玩玩刀乱无双之后我觉得什么都可以接受了，对于刀剑乱舞一而再再而三扰乱市场秩序的行为我希望有关部门可以出面抵制，虽然这一切我也有一部分的责任（。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github Student Benefits申请相关（2022年版]]></title>
-        <id>https://kuraqi.github.io/post/apply-for-github-student-benefits-2022/</id>
-        <link href="https://kuraqi.github.io/post/apply-for-github-student-benefits-2022/">
-        </link>
-        <updated>2022-02-09T15:04:23.000Z</updated>
-        <content type="html"><![CDATA[<p>看到有fedi友在说这个<a href="https://moresci.sale/@RadiumGua/107767126262742770">嘟文链接</a></p>
-<p>前两周刚申请的我说一下需要的材料（因为网上的教程基本上已经不再实用了）（仅针对在校大学生）<br>
-首先是需要去GitHub里绑定你学校的邮箱（不知道学校邮箱的可以去你们学校的官网上找找，有学校邮箱还可以薅apple music四年的羊毛），绑定完成后点开申请页面<a href="https://education.github.com/pack">github education</a> 进行登录，登录之后点benefits会有一个申请界面，选择你的教育邮箱（一般情况下会自动识别出你的学校，如果没有再自己手动填写），下面会有一个要你说你打算用GitHub干啥的问答。我写了一下自己的情况然后大概说了想用GitHub搭博客和别人交流等等，怕自己英文水平不行的直接上翻译器没太大毛病就行。</p>
-<p>第二步是根据你的IP地址判定你在不在学校，不在学校会让你提交一个学生证之类的证明你的学生身份。界面上只有用电脑摄像头拍照但是你可以用手机拍完后存在电脑上再把照片拖进去也是OK的。底下有个项目，你传了啥选啥（基本上都是第一个）。<br>
-需要证明你的学校、入学时间。<br>
-因为要上传个人信息所以请仔细斟酌是否需要申请。</p>
-<p>最后说一下如果申请没过怎么办。申请过后接着戳benefits界面，右侧是你的申请状态，如果按照规定上传了但是被reject了请直接点底下的support-community-education-contact us提交说明。我大概说的就是我按照你们的要求提交了教育邮箱和其他材料进行申请但是你们把我拒绝了，我觉得自己得到了不公平的对待，请问能否核查我的学生资格（对不起还是直接丢的翻译器）。第二天就给我发邮件道歉并且通过了学生认证。</p>
-<p>以上仅供参考，总之就是如果申请不过请大胆地去找support进行提问，不要害怕！你是年满13周岁的学生！这是你可以享受的！</p>
-<p>另外附上<a href="https://github.com/huhuhang/education-discount">huhuhang/education-discount: 适合中国大陆学生的优质教育优惠项目</a> 和<a href="https://github.com/ivmm/Student-resources">ivmm/Student-resources: 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。</a>，朋友们，能薅则薅</p>
 ]]></content>
     </entry>
 </feed>
