@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kuraqi.github.io</id>
     <title>赛博夜话</title>
-    <updated>2022-12-27T03:17:13.248Z</updated>
+    <updated>2023-01-17T03:11:41.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kuraqi.github.io"/>
     <link rel="self" href="https://kuraqi.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
 兴趣爱好是分享一些奇奇怪怪的黑科技。</subtitle>
     <logo>https://kuraqi.github.io/images/avatar.png</logo>
     <icon>https://kuraqi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 赛博夜话</rights>
+    <rights>All rights reserved 2023, 赛博夜话</rights>
     <entry>
         <title type="html"><![CDATA[2022年12月推理小说阅读记录]]></title>
         <id>https://kuraqi.github.io/post/2022-nian-12-yue-tui-li-xiao-shuo-ji-lu/</id>
